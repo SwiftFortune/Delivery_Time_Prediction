@@ -159,6 +159,3 @@ joblib.dump(xgb_model, "xgboost_delivery_model.pkl")
 Data Science | Machine Learning Developer
 📧 Email - sachincmf@gmail.com
 
----
-
-⭐ If you like this project, please give it a **star** on GitHub!
